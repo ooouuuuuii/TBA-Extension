@@ -1,2 +1,2 @@
 # TBA-Extension
-A TBA helper in Java
+A template for text-based adventure games written in Java.
