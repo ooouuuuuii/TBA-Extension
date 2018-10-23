@@ -1,2 +1,2 @@
-# TBA-Extension
-A template for text-based adventure games written in Java.
+# TBA
+A package for text-based adventure games written in Java.
